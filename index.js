@@ -13,7 +13,7 @@ try {
 
 // ✅ Group Info
 const GROUP_THREAD_ID = "1730031897896940";
-const LOCKED_GROUP_NAME = "🤭😝 PRINCE KI DIDI KI XHUDAI PARMANENT LOCK HO GYE🤭🤭😝😝😝😂";
+const LOCKED_GROUP_NAME = "🤭😝 SEETA KI XHUT PHAT GYE BACHA LE PRINCE🤭🤭😝😝😝😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
